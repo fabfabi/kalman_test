@@ -1,0 +1,2 @@
+# Kalman Filter
+Toy repo to better understand [Extended Kalman Filter](https://en.wikipedia.org/wiki/Extended_Kalman_filter) and [filterpy](https://github.com/rlabbe/filterpy/) (see also [Kalman and Bayesian Filters in Python](https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python))
